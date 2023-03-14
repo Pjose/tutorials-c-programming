@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Other files created by Dev-C++
+*.dev
+*.ico
+*.layout
+*_private.h
+*.rc
+*.res
+*.win
